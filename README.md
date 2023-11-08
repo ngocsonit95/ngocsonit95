@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Becamextdc](http://becamextdc.com.vn/)
+- 🔭 I’m currently working at [Eastern International University](https://eiu.edu.vn/)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocsonit95&show_icons=true&locale=en" alt="ngocsonit95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngocsonit95&" alt="ngocsonit95" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ngocsonit95&](https://scontent.fsgn21-1.fna.fbcdn.net/v/t39.30808-1/345447322_5761934250584770_5689970477765640908_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Z0ZT7YSdLD8AX82y2yM&_nc_ht=scontent.fsgn21-1.fna&oh=00_AfDEsQSDjQAJzi4VAg22DE-8NjGl36x_DHcn6bwX3zta-g&oe=654F82B2)https://scontent.fsgn21-1.fna.fbcdn.net/v/t39.30808-1/345447322_5761934250584770_5689970477765640908_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Z0ZT7YSdLD8AX82y2yM&_nc_ht=scontent.fsgn21-1.fna&oh=00_AfDEsQSDjQAJzi4VAg22DE-8NjGl36x_DHcn6bwX3zta-g&oe=654F82B2" alt="ngocsonit95" /></p>
