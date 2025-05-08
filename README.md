@@ -1,7 +1,7 @@
-# 👋 Xin chào, Tôi là [Tên của bạn]!
+# 👋 Xin chào, Tôi là Nguyễn Ngọc Sơn!
 
 Chào mừng bạn đến với góc nhỏ của tôi trên GitHub! 🚀  
-Tôi là một **[vai trò của bạn, ví dụ: Nhà phát triển Full-stack, Kỹ sư Dữ liệu]** đam mê **[lĩnh vực, ví dụ: tạo ra trải nghiệm người dùng tuyệt vời, phân tích dữ liệu lớn, hoặc xây dựng AI]**. Với niềm yêu thích học hỏi và sáng tạo, tôi luôn tìm cách biến ý tưởng thành hiện thực qua mã nguồn.
+Tôi là một **Nhà phát triển Full-stack** đam mê **[lĩnh vực, ví dụ: tạo ra trải nghiệm người dùng tuyệt vời, phân tích dữ liệu lớn, hoặc xây dựng AI]**. Với niềm yêu thích học hỏi và sáng tạo, tôi luôn tìm cách biến ý tưởng thành hiện thực qua mã nguồn.
 
 <p align="center">
   <a href="https://github.com/[tên người dùng GitHub của bạn]">
