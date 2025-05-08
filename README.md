@@ -1,50 +1,36 @@
-# Xin chào, Tôi là [Tên của bạn] 👋
+# Xin chào, Tôi là Nguyễn Minh 👋
 
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là một [vai trò của bạn, ví dụ: lập trình viên, nhà phát triển web, kỹ sư dữ liệu] đam mê [lĩnh vực/đam mê của bạn, ví dụ: xây dựng ứng dụng thân thiện với người dùng, phân tích dữ liệu, hoặc phát triển AI]. Tôi yêu thích việc học hỏi, giải quyết vấn đề và đóng góp vào các dự án mã nguồn mở.
+Chào mừng đến với GitHub của tôi! Tôi là một sinh viên CNTT đam mê phát triển web và học máy. Tôi thích xây dựng các ứng dụng thân thiện với người dùng và khám phá công nghệ mới.
 
 ## 🚀 Về Tôi
 
-- 🔭 **Hiện tại**: [Mô tả công việc hoặc dự án bạn đang làm, ví dụ: "Đang phát triển ứng dụng web với React" hoặc "Học về machine learning"].
-- 🌱 **Đang học**: [Công nghệ hoặc kỹ năng bạn đang khám phá, ví dụ: "TypeScript, Docker, hoặc khoa học dữ liệu"].
-- 👯 **Hợp tác**: Tôi rất hào hứng khi làm việc cùng các đội nhóm trong [lĩnh vực, ví dụ: phát triển phần mềm, mã nguồn mở].
-- 💬 **Hỏi tôi về**: [Chủ đề bạn giỏi hoặc thích chia sẻ, ví dụ: JavaScript, thiết kế UI/UX, hoặc Git].
-- 📫 **Liên hệ**: [Email, LinkedIn, hoặc các nền tảng khác, ví dụ: email@example.com | [LinkedIn](#)].
-- ⚡ **Sở thích**: [Một chút cá tính, ví dụ: "Thích uống cà phê, chơi cờ vua, hoặc chạy bộ"].
+- 🔭 **Hiện tại**: Đang làm dự án web cá nhân với React.
+- 🌱 **Đang học**: Machine Learning với Python.
+- 💬 **Hỏi tôi về**: JavaScript, React, hoặc bóng đá!
+- 📫 **Liên hệ**: nguyenminh@example.com | [LinkedIn](#).
+- ⚡ **Sở thích**: Chơi bóng đá và nghe podcast công nghệ.
 
 ## 🛠 Kỹ Năng
 
-- **Ngôn ngữ lập trình**: [Liệt kê, ví dụ: Python, JavaScript, Java, C++]
-- **Framework/Công cụ**: [Ví dụ: React, Node.js, Django, TensorFlow]
-- **Công nghệ khác**: [Ví dụ: Docker, AWS, MongoDB]
-- **Kỹ năng mềm**: [Ví dụ: Làm việc nhóm, quản lý thời gian, giao tiếp]
+- **Ngôn ngữ lập trình**: Python, JavaScript
+- **Framework/Công cụ**: React, Node.js, Git
+- **Kỹ năng mềm**: Giao tiếp, làm việc nhóm
 
 ## 🌟 Dự Án Nổi Bật
 
-### [Tên Dự Án 1]
-- **Mô tả**: [Mô tả ngắn gọn về dự án, ví dụ: "Một ứng dụng web để quản lý công việc, xây dựng với React và Firebase"].
-- **Công nghệ sử dụng**: [Ví dụ: React, Firebase, CSS].
-- **Liên kết**: [Liên kết đến repo hoặc demo, ví dụ: github.com/username/project].
-
-### [Tên Dự Án 2]
-- **Mô tả**: [Mô tả ngắn gọn, ví dụ: "Công cụ phân tích dữ liệu bằng Python và Pandas"].
-- **Công nghệ sử dụng**: [Ví dụ: Python, Pandas, Matplotlib].
-- **Liên kết**: [Liên kết đến repo hoặc demo].
-
-(Xem thêm các dự án của tôi trong [Repositories](#) hoặc pinned repositories bên dưới!)
+### Ứng Dụng Quản Lý Công Việc
+- **Mô tả**: Ứng dụng web giúp theo dõi công việc hàng ngày.
+- **Công nghệ sử dụng**: React, Firebase.
+- **Liên kết**: [github.com/nguyenminh/task-manager](#).
 
 ## 📊 Thống Kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tên người dùng GitHub của bạn]&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[tên người dùng GitHub của bạn]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenminh&show_icons=true&theme=dark)
 
 ## 📬 Kết Nối Với Tôi
 
-- [LinkedIn](#) – Kết nối chuyên nghiệp
-- [Twitter](#) – Theo dõi các cập nhật công nghệ
-- [Email](mailto:[email của bạn]) – Liên hệ trực tiếp
-- [Portfolio](#) – Xem các dự án và công việc của tôi
+- [LinkedIn](#) | [Email](mailto:nguyenminh@example.com)
 
 ---
 
-⭐️ Nếu bạn thấy hồ sơ hoặc dự án của tôi thú vị, hãy để lại một ngôi sao trên các repository của tôi! Cảm ơn bạn đã ghé thăm! 😄
+⭐️ Cảm ơn bạn đã ghé thăm! Hãy để lại một ngôi sao nếu bạn thích các dự án của tôi! 😄
