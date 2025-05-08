@@ -71,12 +71,12 @@ Tôi là một **[vai trò của bạn, ví dụ: Nhà phát triển Full-stack,
 ## 📊 Thống Kê GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tên người dùng GitHub của bạn]&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tên người dùng GitHub của bạn]&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngocsonit95&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocsonit95&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tên người dùng GitHub của bạn]&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocsonit95&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
