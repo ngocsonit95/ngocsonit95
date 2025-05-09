@@ -30,8 +30,8 @@ Tôi là một **Nhà phát triển Full-stack** đam mê xây dựng các ứng
 - 🔭 **Đang làm việc với**: Phát triển hệ thống web với .NET Core, Angular, và Power BI  
 - 🌱 **Đang khám phá**: Tối ưu hóa pipeline CI/CD và ABP Framework  
 - 👨‍💻 **Giá trị của tôi**: Viết mã sạch, ưu tiên hiệu suất, và hợp tác chặt chẽ  
-- 💬 **Hỏi tôi về**: .NET Core, Angular, Vue, hoặc thiết kế API RESTful  
-- ⚡ **Sở thích cá nhân**: Khám phá công nghệ, chơi game, và kết nối bạn bè  
+- 💬 **Hỏi tôi về**: .NET Core, Angular, Vue, React hoặc thiết kế API RESTful  
+- ⚡ **Sở thích cá nhân**: Khám phá công nghệ, ca hát, và kết nối bạn bè  
 
 ---
 
